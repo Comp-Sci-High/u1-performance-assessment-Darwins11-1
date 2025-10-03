@@ -68,6 +68,10 @@ let afterSchoolClubs = {
     ]
 }
 
+scoreValues.C = "Consistency";
+scoreValues.O = "Ownership";
+scoreValues.push("E");
+scoreValues.E = "Excellence";
 
 // Commit and show us to unlock the next floor's instructions
 // ----------------------------
